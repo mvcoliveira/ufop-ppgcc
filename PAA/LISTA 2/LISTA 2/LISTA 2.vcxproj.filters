@@ -23,5 +23,8 @@
     <ClInclude Include="Exercicio1-BubbleSort.h">
       <Filter>Arquivos de Origem</Filter>
     </ClInclude>
+    <ClInclude Include="Exercicio2-SelectionSort.h">
+      <Filter>Arquivos de Origem</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
