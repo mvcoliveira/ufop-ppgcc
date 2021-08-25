@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+C:\Users\Marcus\Documents\GitHub\ufop-ppgcc\PAA\LISTA 2\LISTA 2\Origem.cpp(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Marcus\Documents\GitHub\ufop-ppgcc\PAA\LISTA 2\LISTA 2\Exercicio1-BubbleSort.h(15,18): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Marcus\Documents\GitHub\ufop-ppgcc\PAA\LISTA 2\LISTA 2\Exercicio1-BubbleSort.h(27,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  LISTA 2.vcxproj -> C:\Users\Marcus\Documents\GitHub\ufop-ppgcc\PAA\LISTA 2\Debug\LISTA 2.exe
